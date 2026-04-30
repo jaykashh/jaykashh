@@ -7,12 +7,7 @@ I'm a business analyst with 3+ years of experience in consulting and healthcare,
 
 ## 👨‍💻 IAM & GRC Projects
 
-> 🚧 Projects coming soon! I'm currently building hands-on labs focused on Identity & Access Management and GRC frameworks. Check back soon.
-
-<!--
-Future projects may include:
-
--->
+Project 1 - [User Role Management Lab](https://github.com/jaykashh/User-Role-Management/tree/main)
 
 ---
 
