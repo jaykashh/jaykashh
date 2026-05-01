@@ -9,6 +9,8 @@ I'm a business analyst with 3+ years of experience in consulting and healthcare,
 
 Project 1 - [User Role Management Lab](https://github.com/jaykashh/User-Role-Management/tree/main)
 
+Project 2 - [Joiner-Mover-Leaver](https://github.com/jaykashh/IAM-Joiner-Mover-Leaver-in-Azure)
+
 ---
 
 ## 🛠️ Tools & Technologies
