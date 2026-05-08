@@ -11,7 +11,7 @@ Project 1 - [User Role Management Lab](https://github.com/jaykashh/User-Role-Man
 
 Project 2 - [Joiner-Mover-Leaver](https://github.com/jaykashh/IAM-Joiner-Mover-Leaver-in-Azure)
 
-Project 3 - [External Identity Provider - Federated Identity](https://github.com/jaykashh/Adding-Google-as-External-Identity-Provider---Federated-Identity)
+Project 3 - [External Identity Provider - Federated Identity](https://github.com/jaykashh/External-Identity-Provider---Federated-Identity)
 
 ---
 
